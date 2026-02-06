@@ -9,4 +9,4 @@
 **无需切换 Root 账号**，直接在默认用户（如 `ubuntu`）下复制并执行以下命令即可：
 
 ```bash
-curl -sL (https://raw.githubusercontent.com/NX2406/ovhroot/refs/heads/main/OVHroot-install) | sudo bash
+curl -sL https://raw.githubusercontent.com/NX2406/ovhroot/refs/heads/main/OVHroot-install | sudo bash
